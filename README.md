@@ -4,7 +4,9 @@ A personal document storage and retrieval web application.
 
 ## Problem
 
-Digital documents are often scattered across phones, laptops, email, messaging apps, and cloud storage. Document Vault aims to provide a simple place to store, organize, search, and access important documents from any device.
+Digital documents are often scattered across phones, laptops, email, messaging apps, and cloud storage.
+
+Document Vault aims to provide a simple place to store, organize, search, and access important documents from any device.
 
 ## MVP
 
@@ -48,3 +50,10 @@ Digital documents are often scattered across phones, laptops, email, messaging a
 AI is intentionally not part of the MVP.
 
 AI capabilities may be explored in future versions.
+
+## Getting Started
+
+### Run the development server
+
+```bash
+npm run dev
